@@ -1,0 +1,46 @@
+* {
+    
+    margin: 0;
+    padding: 0;
+}
+
+#particles {
+    
+    
+    height:35vh;
+    width: 100vw;
+    background: #432160;
+}
+
+#wishes {
+    
+    height: 30vh;
+    width: 100vw;
+    text-align: center;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    font-family: 'Berkshire Swash', cursive;
+    font-weight: bold;
+    font-size: 40px;
+    color: #571919;
+    letter-spacing: 2px;
+    background:#FCF4D9;
+}
+
+#particles1 {
+    
+    height: 35vh;
+    width: 100vw;
+    background: #432160;
+    
+}
+
+
+
